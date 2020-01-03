@@ -1,3 +1,1 @@
-# Rhasspy Microphone Hermes MQTT Service
-
-Records audio from an external program and publishes WAV chunks according to the [Hermes protocol](https://docs.snips.ai/reference/hermes).
+Moved to https://github.com/rhasspy/rhasspy-microphone-cli-hermes
